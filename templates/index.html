@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Indian Political Compass</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static',filename='style.css') }}">
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Indian Political Compass</h1>
+
+<div id="progress"></div>
+
+<div class="card">
+
+<h2 id="question"></h2>
+
+<div id="options"></div>
+
+</div>
+
+<div class="buttons">
+
+<button id="skipBtn">Skip</button>
+<button id="nextBtn">Next</button>
+
+</div>
+
+<div id="result"></div>
+
+</div>
+
+<script src="{{ url_for('static',filename='script.js') }}"></script>
+
+</body>
+</html>
