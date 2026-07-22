@@ -1,0 +1,232 @@
+[
+  {
+    "text": "Should we have open borders with our neighbours?",
+    "options": [
+      {"text": "Yes, fully open borders", "score": -2},
+      {"text": "Yes, but with strong security checks", "score": -1},
+      {"text": "Only limited open borders for trade", "score": 0},
+      {"text": "No, borders should remain strictly controlled", "score": 1},
+      {"text": "No, borders should be heavily fortified", "score": 2}
+    ]
+  },
+  {
+    "text": "Should India prioritise its defence and sovereignty even if at the cost of economic progress?",
+    "options": [
+      {"text": "Yes, defence must always come first", "score": 2},
+      {"text": "Yes, but only when there is a clear threat", "score": 1},
+      {"text": "Defence should be balanced with economy", "score": 0},
+      {"text": "Economic progress should take precedence", "score": -1},
+      {"text": "No, economic strength ensures sovereignty", "score": -2}
+    ]
+  },
+  {
+    "text": "Should states have more power?",
+    "options": [
+      {"text": "Yes, maximum power to states", "score": -2},
+      {"text": "Yes, significantly more autonomy", "score": -1},
+      {"text": "Moderate increase in state powers", "score": 0},
+      {"text": "Current distribution is fine", "score": 1},
+      {"text": "No, centre should retain or increase power", "score": 2}
+    ]
+  },
+  {
+    "text": "Should the centre intervene in state affairs?",
+    "options": [
+      {"text": "Yes, whenever necessary for national interest", "score": 2},
+      {"text": "Yes, in constitutional breakdown or emergency", "score": 1},
+      {"text": "Intervention minimal after consultation", "score": 0},
+      {"text": "Very rarely", "score": -1},
+      {"text": "Never", "score": -2}
+    ]
+  },
+  {
+    "text": "Should minorities be offered special rights?",
+    "options": [
+      {"text": "Yes, extensive special rights", "score": -2},
+      {"text": "Yes, some special rights necessary", "score": -1},
+      {"text": "Limited cultural and educational rights only", "score": 0},
+      {"text": "No special rights, equal rights only", "score": 1},
+      {"text": "No, special rights should be removed", "score": 2}
+    ]
+  },
+  {
+    "text": "Should UCC (Uniform Civil Code) be implemented?",
+    "options": [
+      {"text": "Yes, immediately", "score": 2},
+      {"text": "Yes, in phased manner", "score": 1},
+      {"text": "Yes, after wide consultation", "score": 0},
+      {"text": "No, personal laws should be respected", "score": -1},
+      {"text": "No, religious communities decide their own laws", "score": -2}
+    ]
+  },
+  {
+    "text": "Should religious bodies have power to make their own laws?",
+    "options": [
+      {"text": "Yes, full autonomy", "score": -2},
+      {"text": "Yes, significant autonomy", "score": -1},
+      {"text": "Limited autonomy in religious practices", "score": 0},
+      {"text": "No, uniform national laws", "score": 1},
+      {"text": "No, no legal powers to religious bodies", "score": 2}
+    ]
+  },
+  {
+    "text": "Should government intervene in religious affairs if practices are exploitative?",
+    "options": [
+      {"text": "Yes, strong intervention", "score": -2},
+      {"text": "Yes, when clear evidence of harm", "score": -1},
+      {"text": "Only in extreme cases with oversight", "score": 0},
+      {"text": "Minimal intervention", "score": 1},
+      {"text": "No intervention at all", "score": 2}
+    ]
+  },
+  {
+    "text": "Should reservation be reformed?",
+    "options": [
+      {"text": "Only on economic basis", "score": 2},
+      {"text": "On both economic and caste basis", "score": 1},
+      {"text": "Only on caste basis with review", "score": -1},
+      {"text": "With creamy layer exclusion and time-bound", "score": 1},
+      {"text": "No major reforms, continue as is", "score": -2}
+    ]
+  },
+  {
+    "text": "Should there be female reservation?",
+    "options": [
+      {"text": "Yes, more than 50%", "score": -2},
+      {"text": "Yes, exactly 50%", "score": -1},
+      {"text": "Yes, 20-30%", "score": 0},
+      {"text": "Yes, only in specific sectors", "score": 1},
+      {"text": "No, there shouldn't be any female reservation", "score": 2}
+    ]
+  },
+  {
+    "text": "Should government bodies and companies be privatised?",
+    "options": [
+      {"text": "Yes, almost all", "score": 2},
+      {"text": "Yes, majority", "score": 1},
+      {"text": "Selective privatisation", "score": 0},
+      {"text": "Only loss-making ones", "score": -1},
+      {"text": "No, most should remain government", "score": -2}
+    ]
+  },
+  {
+    "text": "Should companies be nationalised?",
+    "options": [
+      {"text": "Yes, key industries", "score": -2},
+      {"text": "Yes, in strategic sectors", "score": -1},
+      {"text": "Rarely, only in emergencies", "score": 0},
+      {"text": "No, avoid nationalisation", "score": 1},
+      {"text": "No, complete free market", "score": 2}
+    ]
+  },
+  {
+    "text": "Should wealth be equally distributed?",
+    "options": [
+      {"text": "Yes, everyone equal amount", "score": -2},
+      {"text": "Yes, minimize inequality aggressively", "score": -1},
+      {"text": "Minimize inequality but not equal distribution", "score": 0},
+      {"text": "Create opportunities for poor instead", "score": 1},
+      {"text": "Free market is best", "score": 2}
+    ]
+  },
+  {
+    "text": "Should government prioritise big companies or MSMEs?",
+    "options": [
+      {"text": "Big companies all benefits", "score": 1},
+      {"text": "Big companies priority + some to MSMEs", "score": 1},
+      {"text": "Equally distribute benefits", "score": 0},
+      {"text": "More benefits to MSMEs", "score": -1},
+      {"text": "Only MSMEs get benefits", "score": -2}
+    ]
+  },
+  {
+    "text": "Should forests, water bodies be used/removed for industries, mining, infrastructure?",
+    "options": [
+      {"text": "No, nature strictly protected", "score": -2},
+      {"text": "Yes, only if necessary for national security", "score": -1},
+      {"text": "Yes, impact strictly monitored", "score": 0},
+      {"text": "Monitored but can be ignored for national security", "score": 1},
+      {"text": "Yes, use freely for global competition", "score": 2}
+    ]
+  },
+  {
+    "text": "Should new reforms in constitution and laws be brought for changing times?",
+    "options": [
+      {"text": "Yes, major & frequent reforms", "score": -2},
+      {"text": "Yes, regular updates", "score": -1},
+      {"text": "Yes, after thorough debate & consensus", "score": 0},
+      {"text": "Minimal & cautious reforms", "score": 1},
+      {"text": "Basic structure should remain unchanged", "score": 2}
+    ]
+  },
+  {
+    "text": "Should it be mandatory to take permission from local bodies before protests?",
+    "options": [
+      {"text": "Yes, essential for public order", "score": 2},
+      {"text": "Yes, mandatory with reasonable conditions", "score": 1},
+      {"text": "Only for large-scale protests", "score": 0},
+      {"text": "Prior intimation good, not mandatory", "score": -1},
+      {"text": "No, it destroys the purpose of protest", "score": -2}
+    ]
+  },
+  {
+    "text": "Should government interfere in affairs of other countries?",
+    "options": [
+      {"text": "Yes, anything to protect our interests", "score": 2},
+      {"text": "Yes, when it affects national security", "score": 1},
+      {"text": "Yes, to help friendly countries in crisis", "score": 0},
+      {"text": "Only through diplomatic channels", "score": -1},
+      {"text": "No, solely focus on our own issues", "score": -2}
+    ]
+  },
+  {
+    "text": "How do you feel about Russia?",
+    "options": [
+      {"text": "Very Positive", "score": 2},
+      {"text": "Positive", "score": 1},
+      {"text": "Neutral", "score": 0},
+      {"text": "Negative", "score": -1},
+      {"text": "Very Negative", "score": -2}
+    ]
+  },
+  {
+    "text": "How do you feel about USA?",
+    "options": [
+      {"text": "Very Positive", "score": 2},
+      {"text": "Positive", "score": 1},
+      {"text": "Neutral", "score": 0},
+      {"text": "Negative", "score": -1},
+      {"text": "Very Negative", "score": -2}
+    ]
+  },
+  {
+    "text": "How do you feel about China?",
+    "options": [
+      {"text": "Very Positive", "score": 2},
+      {"text": "Positive", "score": 1},
+      {"text": "Neutral", "score": 0},
+      {"text": "Negative", "score": -1},
+      {"text": "Very Negative", "score": -2}
+    ]
+  },
+  {
+    "text": "How do you feel about Israel?",
+    "options": [
+      {"text": "Very Positive", "score": 2},
+      {"text": "Positive", "score": 1},
+      {"text": "Neutral", "score": 0},
+      {"text": "Negative", "score": -1},
+      {"text": "Very Negative", "score": -2}
+    ]
+  },
+  {
+    "text": "How do you feel about Turkey?",
+    "options": [
+      {"text": "Very Positive", "score": 2},
+      {"text": "Positive", "score": 1},
+      {"text": "Neutral", "score": 0},
+      {"text": "Negative", "score": -1},
+      {"text": "Very Negative", "score": -2}
+    ]
+  }
+]
